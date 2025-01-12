@@ -27,7 +27,7 @@ This is the server for IOT Project - Smart Door unlocked by speech of team 9.
 ```
 
 ## Deploy
-This server got delpoyed on Render: https://iot-server-p93y.onrender.com
+This server got delpoyed on Render: https://iot-server-luym.onrender.com
 
 **Note:** Because of limit of the Render free tier, the server may not work.
 
